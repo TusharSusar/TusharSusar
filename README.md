@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tushar%20Susar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%C2%B7%20Java%20%C2%B7%20Firebase%20%C2%B7%20AWS&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tushar%20Susar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%C2%B7%20Java%20%C2%B7%20SpringBoot%20%C2%B7%20Firebase%20%C2%B7%20AWS&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real-world+apps+that+ship+%F0%9F%9A%80;React+%7C+Java+%7C+Firebase+%7C+Spring+Boot;AWS+Cloud+%7C+REST+APIs+%7C+Full+Stack;Open+to+Internships+%26+Junior+Dev+Roles+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -25,10 +25,9 @@
 ```javascript
 const tushar = {
   location:     "Nashik, Maharashtra 🇮🇳",
-  education:    "B.E. Computer Engineering @ SPPU (SGPA: 9.55)",
+  education:    "B.E.(Information Technology) @ SPPU (SGPA: 9.55)",
   currentFocus: ["Spring Boot", "System Design", "Open Source"],
   lookingFor:   "Junior Developer / Internship Roles",
-  funFact:      "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
@@ -37,7 +36,7 @@ const tushar = {
 - ☁️ Trained on **AWS Cloud** — EC2, S3, VPC, IAM at Sumago Infotech
 - 💬 Ask me about **React.js, Firebase, Java, or anything full-stack**
 - 📫 Reach me at **tusharsusar06@gmail.com**
-- ⚡ SGPA: **9.55** | Available for: **Immediate Joining**
+- ⚡ Available for: **Immediate Joining**
 
 ---
 
@@ -86,9 +85,9 @@ const tushar = {
 ### 📋 Vanish CRM
 > Customer relationship management web application
 
-**Tech:** React.js · Firebase · Tailwind CSS
+**Tech:** Next.js · Firebase · Tailwind CSS · Spring boot · GmailAPI · Calender
 
-- ✅ Client data & interaction management
+-  ✅ Client data & interaction management
 - ✅ Clean dashboard UI with CRUD operations
 - ✅ Firebase Firestore backend with real-time sync
 
@@ -150,7 +149,7 @@ const tushar = {
 </div>
 
 ---
-
+<!--
 ## 💼 Experience
 
 | Role | Company | Duration | Type |
@@ -160,7 +159,7 @@ const tushar = {
 | ☕ **Java Full Stack Virtual Intern** | Eduskills Virtual Internships | Feb 2025 – May 2025 | Remote |
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -173,10 +172,10 @@ const tushar = {
 </div>
 
 ---
-
+<!-- 
 ## 🎓 Education & Certifications
 
-🏛️ **B.E. Computer Engineering** — Jawaher Institute of Technology, SPPU | 2022–2026 | **SGPA: 9.55**
+🏛️ **B.E. (IT)** — Jawaher Institute of Technology, SPPU | 2022–2026 | **SGPA: 9.55**
 
 🏫 **HSC** — Bhonsala Military College, Nashik | Maharashtra State Board | 2022
 
@@ -185,6 +184,7 @@ const tushar = {
 📜 **Java Full Stack Development** — Eduskills Virtual Internships | Feb–May 2025
 
 ---
+-->
 
 ## 📫 Let's Connect
 
