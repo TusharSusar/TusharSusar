@@ -194,7 +194,7 @@ Have an opportunity, want to collaborate, or just want to say hi?
 
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsusar06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharsusar)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cognito-xi.netlify.app)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tusharsusar.netlify.app)
 
 **📍 Nashik, Maharashtra | ⚡ Available for Immediate Joining**
 
