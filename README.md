@@ -25,6 +25,7 @@
 ```javascript
 const tushar = {
   location:     "Nashik, Maharashtra 🇮🇳",
+  working:      "Software engineer - present",
   education:    "B.E.(Information Technology) @ SPPU (SGPA: 9.55)",
   currentFocus: ["Spring Boot", "System Design", "Open Source"],
   lookingFor:   "Junior Developer / Internship Roles",
@@ -33,7 +34,7 @@ const tushar = {
 
 - 🔭 Currently building **FenceTrack** — a real-time GPS tracker with ESP32 + React + Firebase
 - 🌱 Learning **Spring Boot** and deepening **REST API** architecture
-- ☁️ Trained on **AWS Cloud** — EC2, S3, VPC, IAM at Sumago Infotech
+- ☁️ Trained on **AWS Cloud** — EC2, S3, VPC, IAM.
 - 💬 Ask me about **React.js, Firebase, Java, or anything full-stack**
 - 📫 Reach me at **tusharsusar06@gmail.com**
 - ⚡ Available for: **Immediate Joining**
@@ -46,7 +47,7 @@ const tushar = {
 <tr>
 <td width="50%">
 
-### 🤖 [Cognito AI Chat](https://cognito-xi.netlify.app)
+### [Cognito AI Chat](https://cognito-xi.netlify.app)
 > Production-ready multi-user AI chat platform
 
 **Tech:** React.js · Firebase · Gemini API · Tailwind CSS
@@ -63,7 +64,7 @@ const tushar = {
 </td>
 <td width="50%">
 
-### 📍 [FenceTrack — GPS Tracker](https://github.com/TusharSusar/gps-tracker)
+### [FenceTrack — GPS Tracker](https://github.com/TusharSusar/gps-tracker)
 > Smart geofence & live GPS monitoring system
 
 **Tech:** React.js · Firebase · ESP32 · Google Maps API
@@ -82,12 +83,12 @@ const tushar = {
 <tr>
 <td width="50%">
 
-### 📋 Vanish CRM
+### Vanish CRM
 > Customer relationship management web application
 
 **Tech:** Next.js · Firebase · Tailwind CSS · Spring boot · GmailAPI · Calender
 
--  ✅ Client data & interaction management
+- ✅ Client data & interaction management
 - ✅ Clean dashboard UI with CRUD operations
 - ✅ Firebase Firestore backend with real-time sync
 
